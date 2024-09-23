@@ -66,16 +66,10 @@ print(f"prediction value: {pre}")
 ```
 
 ## Output:
-```
-R&D Spend	Administration	Marketing Spend	State	Profit
-0	165349.20	136897.80	471784.10	New York	192261.83
-1	162597.70	151377.59	443898.53	California	191792.06
-2	153441.51	101145.55	407934.54	Florida	191050.39
-3	144372.41	118671.85	383199.62	New York	182901.99
-4	142107.34	91391.77	366168.42	Florida	166187.94
+head:
 
-[[-0.42925552]]
-prediction value: [[192932.45813544]]
-```
+![Screenshot 2024-09-23 112855](https://github.com/user-attachments/assets/da9f1210-0933-49e9-83cf-593faf2fc5ba)
+![Screenshot 2024-09-23 112935](https://github.com/user-attachments/assets/17e3a463-d33d-41aa-b0e8-210dca6426ae)
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
